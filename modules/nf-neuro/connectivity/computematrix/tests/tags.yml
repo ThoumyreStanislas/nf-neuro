@@ -1,0 +1,2 @@
+connectivity/computematrix:
+  - "modules/nf-neuro/connectivity/computematrix/**"
